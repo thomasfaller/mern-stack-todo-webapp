@@ -1,0 +1,23 @@
+{
+  "name": "todo-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasfaller/mern-stack-todo-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasfaller/mern-stack-todo-webapp/issues"
+  },
+  "homepage": "https://github.com/thomasfaller/mern-stack-todo-webapp#readme",
+  "devDependencies": {
+    "graphql-yoga": "^1.14.10"
+  }
+}
